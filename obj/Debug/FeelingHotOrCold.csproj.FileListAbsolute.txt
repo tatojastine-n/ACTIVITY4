@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\FeelingHotOrCold\obj\Debug\FeelingHotOrCold.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FeelingHotOrCold\obj\Debug\FeelingHotOrCold.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FeelingHotOrCold\bin\Debug\FeelingHotOrCold.exe.config
+C:\Users\HP\source\repos\FeelingHotOrCold\bin\Debug\FeelingHotOrCold.exe
+C:\Users\HP\source\repos\FeelingHotOrCold\bin\Debug\FeelingHotOrCold.pdb
+C:\Users\HP\source\repos\FeelingHotOrCold\obj\Debug\FeelingHotOrCold.exe
+C:\Users\HP\source\repos\FeelingHotOrCold\obj\Debug\FeelingHotOrCold.pdb
